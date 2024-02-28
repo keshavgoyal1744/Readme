@@ -1,7 +1,12 @@
 <p align="left">Highly collaborative and goal-oriented senior at Virginia Tech with a strong academic background in Computer Science, with minors in cyber-security and Mathematics. With exceptional research, coding, and analytical skills, I am actively seeking opportunities for professional growth and skill development in the field of Software Engineering and cyber-security.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavgoyal1744&label=Profile%20views&color=0e75b6&style=flat" alt="keshavgoyal1744" /> </p>
-###
+- 📫 How to reach me **keshavgoyal1744.kg@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/goyal-keshav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/goyal-keshav/" height="30" width="40" /></a>
+</p>
+<h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
